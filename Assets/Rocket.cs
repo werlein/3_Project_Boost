@@ -100,8 +100,7 @@ public class Rocket : MonoBehaviour
 
     private void ApplyThrust()
     {
-        //rigidBody.AddRelativeForce(Vector3.up * mainThrust * Time.deltaTime);
-        rigidBody.AddRelativeForce(Vector3.up * mainThrust);
+        rigidBody.AddRelativeForce(Vector3.up * mainThrust * Time.deltaTime);
         if (!audioSource.isPlaying) // it doesn't layer them on the top of each other
         {
             audioSource.PlayOneShot(mainEngine);
