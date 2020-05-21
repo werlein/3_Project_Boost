@@ -2,7 +2,7 @@
 
 This project is part of the [Complete C# Unity Developer 3D: Learn to Code Making Games](https://www.udemy.com/course/unitycourse2/) course on Udemy.  
 
-This is a game inspired by the 1986 classic Thrust. The goal is to battle gravity and avoid obstacles to skillfully pilot your ship from a launch pad to a landing pad. A simple concept with a huge array of gameplay opportunities.
+This is a 2.5D space piloting game inspired by the 1986 BBC Micro classic Thrust. The goal is to battle gravity and avoid obstacles to skillfully pilot your ship from a launch pad to a landing pad. A simple concept with a huge array of gameplay opportunities.
 
 **This Project's Learning Outcomes**
 
